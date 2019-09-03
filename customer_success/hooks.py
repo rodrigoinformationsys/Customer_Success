@@ -11,6 +11,9 @@ app_color = "grey"
 app_email = "rodrigogiacobelli@gmail.com"
 app_license = "MIT"
 
+email_append_to = ["Customer Log"]
+
+
 # Includes in <head>
 # ------------------
 
