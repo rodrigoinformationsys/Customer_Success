@@ -1,0 +1,25 @@
+{
+ "add_total_row": 0,
+ "creation": "2019-09-03 16:06:09.085115",
+ "disable_prepared_report": 0,
+ "disabled": 0,
+ "docstatus": 0,
+ "doctype": "Report",
+ "idx": 0,
+ "is_standard": "Yes",
+ "json": "{\"filters\":[],\"fields\":[[\"name\",\"Customer Log\"],[\"docstatus\",\"Customer Log\"],[\"customer\",\"Customer Log\"],[\"contact\",\"Customer Log\"],[\"date\",\"Customer Log\"],[\"score\",\"Customer Log\"]],\"order_by\":\"`tabCustomer Log`.`modified` desc\",\"add_totals_row\":true,\"page_length\":20,\"column_widths\":{\"name\":120,\"customer\":120,\"contact\":120,\"date\":120,\"score\":120},\"group_by\":null}",
+ "modified": "2019-09-03 16:06:29.630914",
+ "modified_by": "Administrator",
+ "module": "Customer Success",
+ "name": "Customer Health Summary",
+ "owner": "Administrator",
+ "prepared_report": 0,
+ "ref_doctype": "Customer Log",
+ "report_name": "Customer Health Summary",
+ "report_type": "Report Builder",
+ "roles": [
+  {
+   "role": "System Manager"
+  }
+ ]
+}
